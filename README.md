@@ -2,10 +2,8 @@
 
 ## Bu site açık kaynak kodludur
 
-## Siteyi Lunex Dev' den alıp kendim editledim
+## Siteyi Barbecue' den alıp kendim editledim
 
-## Lunex Dev Sitesi https://lunexdev.ml/
+## Barbecue Sitesi https://simple-portfolio-barbecue.netlify.app/
 
-## Lunex Dev Projesi https://github.com/lunexdev/personel-website
-
-### Boş boş konuşmayın amk aldık editledik kullanıyoz
+## Barbecue Projesi https://github.com/barbecue/simple-portfolio
